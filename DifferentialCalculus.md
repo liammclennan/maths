@@ -1,4 +1,4 @@
-[Calculus](Calculus.html)
+[Calculus](Calculus)
 
 Differential Calculus
 ====
