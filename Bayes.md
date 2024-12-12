@@ -8,3 +8,8 @@ $P(X,Y) = P(X) * P(Y)$
 
 $P(X)$ or $P(Y)$ = $P(X) + P(Y) - P(X,Y)$
 
+## Bayes' Theorem
+
+Used to reverse conditional probability.
+
+$P(A|B) = \frac{P(B|A)P(A)}{P(B)}$
