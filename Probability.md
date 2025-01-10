@@ -57,5 +57,13 @@ Where n = # of experiments.
 
 Shows all possible outcomes of an experiment. The first branches have marginal probabilities. Subsequent branches have conditional probabilities. The probabilities of the leaf nodes sum to `1`.
 
+## Probability Density Function
+
+Function that gives a probability as a distribution. Area under the curve must equal 1. Used to find the probability of a probability being in a particular range by integrating that part of the function. 
+
+## Cumulative Density Function
+
+Gives the probability that 
+
 <script>
 </script>
