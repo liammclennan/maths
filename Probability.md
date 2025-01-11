@@ -63,7 +63,10 @@ Function that gives a probability as a distribution. Area under the curve must e
 
 ## Cumulative Density Function
 
-Gives the probability that 
+Gives the probability that of a value being less than or equal to its input. 
 
-<script>
-</script>
+The median of a sample occurs where the CDF has the value $0.5$. 
+
+Most commonly used to calcultate the probability of a parameter being within a range. E.g. If height is a normal distribution with $\mu = 170$ and $\sigma = 14$ what is the probability of a randomly chosen person being between $150$ and $175$ cm?
+
+$= CDF(175) - CDF(150)$
